@@ -72,4 +72,7 @@ Click on Check Analysis button to view the analysis.
 
 The visualization is present in the Below Images
 ![alt text](analysis_test.png)
+![alt text](image.png)
 ![alt text](graphs.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
