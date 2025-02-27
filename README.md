@@ -61,3 +61,4 @@ Once the requirements are installed, you can launch the dashboard with:
 streamlit run main.py
 ```
 
+![alt text](image.png)
