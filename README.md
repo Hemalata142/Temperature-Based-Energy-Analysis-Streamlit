@@ -61,4 +61,15 @@ Once the requirements are installed, you can launch the dashboard with:
 streamlit run main.py
 ```
 
-![alt text](image.png)
+Main Screen : You can upload a folloing the Instructions mentioned and then fill in the requested details.
+![alt text](main_screen.png)
+
+Analysis : Once the File is uploaded.It will be shown in the Analysis Tab.
+![alt text](analysis.png)
+
+Click on Check Analysis button to view the analysis.
+![alt text](analysis_expander.png)
+
+The visualization is present in the Below Images
+![alt text](analysis_test.png)
+![alt text](graphs.png)
